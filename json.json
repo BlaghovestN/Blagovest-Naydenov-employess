@@ -1,0 +1,45 @@
+[
+    {
+        "EmpID": 143,
+        "ProjectID": 12,
+        "DateFrom": "2013-11-01",
+        "DateТо": "2014-01-05"
+    }, {
+        "EmpID": 218,
+        "ProjectID": 10,
+        "DateFrom": "2012-05-16",
+        "DateТо": "2012-05-30"
+    }, {
+        "EmpID": 143,
+        "ProjectID": 10,
+        "DateFrom": "2009-01-01",
+        "DateТо": "2011-04-27"
+    }, {
+        "EmpID": 4,
+        "ProjectID": 12,
+        "DateFrom": "2003-12-15",
+        "DateТо": null
+
+    }, {
+        "EmpID": 45,
+        "ProjectID": 6,
+        "DateFrom": "2003-12-31",
+        "DateТо": "2005-06-12"
+    }, {
+        "EmpID": 456,
+        "ProjectID": 10,
+        "DateFrom": "2005-04-23",
+        "DateТо": "2011-04-27"
+    }, {
+        "EmpID": 456,
+        "ProjectID": 12,
+        "DateFrom": "1990-12-15",
+        "DateТо": null
+
+    }, {
+        "EmpID": 4,
+        "ProjectID": 5,
+        "DateFrom": "2003-12-31",
+        "DateТо": "2015-06-12"
+    }
+]
